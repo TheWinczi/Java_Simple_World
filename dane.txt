@@ -1,0 +1,13 @@
+20 20
+5 4
+27
+czlowiek 5 4 10 15
+lis 3 7 6 4
+wilk 9 5 7 17
+owca 4 4 12 4
+antylopa 4 4 13 14
+cyberowca 11 4 13 8
+trawa 0 0 5 5
+guarana 10 0 2 4
+wilczejagody 99 0 17 6
+trawa 0 0 4 5
